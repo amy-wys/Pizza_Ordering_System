@@ -1,3 +1,4 @@
+from StoreAddress import Address
 
 class Customer:
     def __init__(self,name:str,address:str,tel:str):
